@@ -1,7 +1,7 @@
 {
   "name": "@xeiswap/v2-sdk",
   "license": "MIT",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "🛠 An SDK for building applications on top of Xeiswap V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -22,7 +22,7 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
-    "@xeiswap/sdk-core": "0.0.5",
+    "@xeiswap/sdk-core": "0.0.6",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
